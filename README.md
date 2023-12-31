@@ -3,8 +3,11 @@ This Python script scrapes financial news headlines for specified stock tickers 
 
 
 **Dependencies**
-Beautiful Soup for web scraping.
-NLTK for natural language processing.
-Matplotlib for data visualization.
+
+**Beautiful Soup** for web scraping.  
+
+**NLTK** for natural language processing.
+
+**Matplotlib** for data visualization.
 
 > **OUTPUT LOOKS LIKE THIS **
